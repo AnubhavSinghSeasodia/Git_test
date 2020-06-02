@@ -1,2 +1,1 @@
-# Git_test
-It is a repo made to clear the assessment on coursera
+I am editing the README file. Adding some more details about the project description.
